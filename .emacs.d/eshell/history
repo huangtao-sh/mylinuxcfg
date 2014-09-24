@@ -1,0 +1,6 @@
+python3 a.py
+python3 a.py
+sudo apt-get update
+sudo apt-get upgrade
+find .
+python3 a.py
